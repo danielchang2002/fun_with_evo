@@ -3,4 +3,4 @@ Colab notebooks for various downstream tasks with [Evo](https://www.biorxiv.org/
 
 Notebook list:
 - [evo_inverton_jacobian.ipynb](https://github.com/danielchang2002/fun_with_evo/blob/main/evo_inverton_jacobian.ipynb): Run [categorical jacobian](https://www.pnas.org/doi/10.1073/pnas.2406285121) on an example inverton in the Bacteroides thetaiotaomicron genome.
-- [evo_LSR_zero_shot.ipynb](https://github.com/danielchang2002/fun_with_evo/blob/main/evo_LSR_zero_shot.ipynb): Test zero-shot performance on large serine recombinase attachment site predictions.
+- [evo_LSR_zero_shot.ipynb](https://github.com/danielchang2002/fun_with_evo/blob/main/evo_LSR_zero_shot.ipynb): Test zero-shot performance on [large serine recombinase](https://www.nature.com/articles/s41587-022-01494-w) attachment site predictions.
